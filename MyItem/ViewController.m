@@ -22,14 +22,14 @@
     
     // 这是我的分支 
     
-<<<<<<< HEAD
+
     
     //gengxin fenzhi 
-=======
+
     //1234656
     
     
->>>>>>> wushengjie
+
 }
 
 - (void)didReceiveMemoryWarning {
