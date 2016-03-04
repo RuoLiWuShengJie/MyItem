@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // 1.0已经完成
     
-    
+    self.view.backgroundColor = [UIColor redColor];
     
     
     
